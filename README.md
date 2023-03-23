@@ -6,6 +6,8 @@ Since this is a one-week project, make sure that you have done at least half of 
 
 Although you and your partner will divide the work, it’s essential to collaborate and communicate while working on different parts of the project. Be sure to check in with your partner regularly and offer support.
 
+![shutterstock_453614023](https://user-images.githubusercontent.com/118202453/227198707-685adf28-644a-4668-8771-2c9a7cb03f0f.jpg)
+
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
 
